@@ -1,0 +1,46 @@
+body {
+    background-image: url(/Images/Thermometer-beach-sand.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?w=2000);
+  
+  }
+  .container {
+    position: absolute;
+    left: 5%;
+    
+  }
+
+  .CONTAINER{
+    background-color: rgb(41, 41, 41);
+    height: 15rem;
+    width: 30rem;
+    color: white;
+
+  }
+  
+  .mb-0 {
+    margin-bottom: 0 !important;
+  }
+  
+  
+  #result {
+    font-weight: bold;
+  }
+  .form-control {
+    width: auto;
+  }
+  
+  #myBtn {
+    margin-top: 5px;
+  }
+  p {
+    padding-left: 5px;
+  }
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
